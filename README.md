@@ -1,6 +1,5 @@
 # 🌿 EcoLife — Gamified Sustainability & Carbon Footprint Platform
 
-[![Repository](https://img.shields.io/badge/GitHub-ayush27--max%2FEcolife-10b981?style=for-the-badge&logo=github)](https://github.com/ayush27-max/Ecolife)
 [![License: MIT](https://img.shields.io/badge/License-MIT-059669.svg?style=for-the-badge)](LICENSE)
 [![Firebase](https://img.shields.io/badge/Firebase-12.17.1-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Google Gemini AI](https://img.shields.io/badge/Google%20Gemini%20AI-Vision%20%26%20Chat-4285f4?style=for-the-badge&logo=google)](https://ai.google.dev/)
