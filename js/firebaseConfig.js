@@ -8,12 +8,12 @@
 // --------------------------------
 
 const firebaseConfig = {
-    apiKey: "AIzaSyA1rspDCqrTBdTXLXIrYpMAVV3NCSOCdPQ",
+    apiKey: "Your Api Key",
     authDomain: "eco-life-saver.firebaseapp.com",
     projectId: "eco-life-saver",
     storageBucket: "eco-life-saver.firebasestorage.app",
     messagingSenderId: "994184005004",
-    appId: "1:994184005004:web:9401ff491fa374d9a642a9"
+    appId: "Your API Id"
 };
 
 // Firebase SDK version
